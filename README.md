@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matheus2237
 - 👀 I’m interested in music, cards and of course, coding
-- 🌱 I’m currently learning Java
--	📚 I’m currently coursing Computer Science
+- 🌱 Currently learning Java
+-	📚 Currently coursing Computer Science
 - 📫 You can reach me at mathpaulinor@gmail.com
 
 <!---
