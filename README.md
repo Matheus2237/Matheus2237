@@ -2,6 +2,7 @@
 - 👀 I’m interested in music, cards and of course, coding
 - 🌱 Currently learning Java
 -	📚 Currently coursing Computer Science
+-	☕ Working at Socin
 - 📫 You can reach me at mathpaulinor@gmail.com
 
 <!---
