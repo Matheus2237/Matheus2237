@@ -116,13 +116,13 @@ You can reach me at:
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Matheus2237&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Matheus2237&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
   <img 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus2237&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus2237&theme=tokyonight&custom_title=Top%20Languages" 
   />
 
 </div>
