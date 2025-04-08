@@ -116,7 +116,7 @@ You can reach me at:
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Matheus2237&show_icons=true&theme=tokyonight&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Matheus2237&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
