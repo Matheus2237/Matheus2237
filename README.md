@@ -111,7 +111,7 @@ You can reach me at:
 
 ### 📊 Statistics
 
-<div style="display: flex;">
+<p>
 
   <img 
     alt="GitHub Stats" 
@@ -125,4 +125,4 @@ You can reach me at:
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus2237&theme=tokyonight&custom_title=Top%20Languages" 
   />
 
-</div>
+</p>
