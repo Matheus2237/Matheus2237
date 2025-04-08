@@ -2,7 +2,7 @@
 
 **`Backend Developer`**
 
-Hi! My name is Matheus Paulino Ribeiro, I’m 21 years old and originally from Minas Gerais, currently living in São Paulo, Brazil. I’ve been working as a Java backend developer for the past 3 years, always aiming to follow best practices and continuously improve.
+Hi! My name is Matheus Paulino Ribeiro, I’m 21 years old and originally from Minas Gerais, currently living in São Paulo, Brazil. I’ve been working as a Java backend developer at [Socin](https://www.socin.com.br/) for the past 3 years, always aiming to follow best practices and continuously improve.
 
 I’m currently pursuing a Bachelor’s degree in Computer Science at Centro Universitário Barão de Mauá, in my 7th semester, expected to graduate in December 2025. I'm passionate about programming and, in my free time, I enjoy playing music, doing magic tricks, drawing, cooking, and reading.
 
